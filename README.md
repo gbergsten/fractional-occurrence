@@ -1,7 +1,9 @@
 # fractional-occurrence
  Notebooks related to a trend in the occurrence of Kepler's small, close-in planets.
  ```
- This page is a work in progress! So far, I've uploaded a notebook for fitting a PLDF to the Kepler data and the trend in fractional occurrence. Notebooks to explore the fit results coming soon!
+ This page is a work in progress! So far, I've uploaded notebooks to:
+ - fit a PLDF to the Kepler data and the trend in fractional occurrence.
+ Notebooks to explore the fit results coming soon!
  ```
  Requirements
  ---
