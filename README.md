@@ -18,4 +18,4 @@
  
  Contact
  ---
- For any questions, requests, or ideas for additional features, please contact Galen Bergsten: gbergsten@arizona.edu
+ For any questions and troubleshooting, please contact Galen Bergsten: gbergsten@arizona.edu
